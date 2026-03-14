@@ -1,6 +1,5 @@
 # =============================================================================
 # 2. MODÉLISATION — PRÉDICTION PRIX LOGEMENTS
-# Réalisé par : SAHLI Oumaima | Janvier - Février 2025
 # =============================================================================
 
 import pandas as pd
