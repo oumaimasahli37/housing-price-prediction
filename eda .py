@@ -1,6 +1,5 @@
 # =============================================================================
 # 1. EXPLORATION ET PRÉTRAITEMENT DES DONNÉES — PRÉDICTION PRIX LOGEMENTS
-# Réalisé par : SAHLI Oumaima | Janvier - Février 2025
 # Dataset : Kaggle — House Prices: Advanced Regression Techniques (Ames, Iowa)
 # =============================================================================
 
