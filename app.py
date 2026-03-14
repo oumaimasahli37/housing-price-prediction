@@ -1,6 +1,6 @@
 # =============================================================================
 # 3. APPLICATION STREAMLIT — PRÉDICTION PRIX LOGEMENTS
-# Lancer : streamlit run 3_app.py
+# Lancer : streamlit run app.py
 # =============================================================================
 
 import streamlit as st
