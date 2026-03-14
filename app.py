@@ -1,6 +1,5 @@
 # =============================================================================
 # 3. APPLICATION STREAMLIT — PRÉDICTION PRIX LOGEMENTS
-# Réalisé par : SAHLI Oumaima | Janvier - Février 2025
 # Lancer : streamlit run 3_app.py
 # =============================================================================
 
